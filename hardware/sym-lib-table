@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name Jaguar-USB-tap-rescue)(type Legacy)(uri ${KIPRJMOD}/Jaguar-USB-tap-rescue.lib)(options "")(descr ""))
+  (lib (name stm32f070f6)(type Legacy)(uri ${KIPRJMOD}/STM32F070F6/stm32f070f6.lib)(options "")(descr ""))
+  (lib (name txb0106)(type Legacy)(uri ${KIPRJMOD}/TXB0106/txb0106.lib)(options "")(descr ""))
+  (lib (name stm32f070cbt6)(type Legacy)(uri ${KIPRJMOD}/STM32F070CB/stm32f070cbt6.lib)(options "")(descr ""))
+  (lib (name Switch1)(type Legacy)(uri ${KIPRJMOD}/Switches/Switch.lib)(options "")(descr ""))
+  (lib (name motor-control-rescue)(type Legacy)(uri ${KIPRJMOD}/motor-control-rescue.lib)(options "")(descr ""))
+)
